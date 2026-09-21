@@ -193,4 +193,4 @@ This is a college major project. The repository is structured so that team membe
 
 ## License
 
-This project is developed for academic purposes.
+This project is developed for academic Major project - Harteij V K Raju,Jeevan,Lohith G M,Rohan M.
