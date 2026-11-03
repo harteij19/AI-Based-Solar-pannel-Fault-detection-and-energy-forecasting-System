@@ -1,0 +1,9 @@
+backend/.venv/
+backend/__pycache__/
+backend/tests/__pycache__/
+backend/data/sensor_history.json
+frontend/node_modules/
+frontend/dist/
+solar_monitor_integrated_ina219/wifi_config.h
+sketch_aug15a/wifi_config.h
+solary_esp32_final/wifi_config.h

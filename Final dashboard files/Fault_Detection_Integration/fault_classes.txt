@@ -1,0 +1,3 @@
+0 = MultiHotSpot
+1 = SingleHotSpot
+2 = StringOpenCircuit
